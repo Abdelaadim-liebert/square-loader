@@ -1,2 +1,2 @@
-# square-loader
+# square-loader OS
 Simple Square
